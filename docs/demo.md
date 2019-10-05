@@ -1,10 +1,11 @@
 # titulo ppl 
 
-##subtitutlo
+## subtitutlo
 
-*Viñeta 1
-*Viñeta 2
+* Viñeta 1
+* Viñeta 2
 
-##subtitulo 2
+## subtitulo 2
+
 [] listo de chequeo 1
 [] check box
