@@ -9,3 +9,7 @@
 
 [] listo de chequeo 1
 [] check box
+
+## prueba bullet point
+
+* prueba 1
